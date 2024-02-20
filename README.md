@@ -3,7 +3,7 @@
 Trivia application where users can test their knowledge in different question categories.
 
 ## Demo
-[Trivia App](https://mkaren92.github.io/trivia-app){:target="_blank"}
+<a href="https://mkaren92.github.io/trivia-app" target="_blank">Trivia App</a>
 
 ## Features
 
